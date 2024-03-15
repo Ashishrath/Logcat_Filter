@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "E:\\cpp\\vc\\Logcat\\logcat\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\LogParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\LogParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\LogData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogFilter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\LogFilter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogFilter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\LogFilter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\LogData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\DataTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\DataTime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\DateTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|solutionrelative:logcat\\DateTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EADFDBA-A2BA-4007-BEFF-9556F553E910}|logcat\\logcat.vcxproj|E:\\cpp\\vc\\Logcat\\logcat\\logcat\\logcat.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -23,6 +55,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LogParser.cpp",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogParser.cpp",
+              "RelativeDocumentMoniker": "logcat\\LogParser.cpp",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogParser.cpp",
+              "RelativeToolTip": "logcat\\LogParser.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T17:20:11.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogParser.h",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogParser.h",
+              "RelativeDocumentMoniker": "logcat\\LogParser.h",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogParser.h",
+              "RelativeToolTip": "logcat\\LogParser.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-15T17:17:59.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogData.cpp",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogData.cpp",
+              "RelativeDocumentMoniker": "logcat\\LogData.cpp",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogData.cpp",
+              "RelativeToolTip": "logcat\\LogData.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T17:15:13.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogFilter.h",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogFilter.h",
+              "RelativeDocumentMoniker": "logcat\\LogFilter.h",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogFilter.h",
+              "RelativeToolTip": "logcat\\LogFilter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-15T17:09:03.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogFilter.cpp",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogFilter.cpp",
+              "RelativeDocumentMoniker": "logcat\\LogFilter.cpp",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogFilter.cpp",
+              "RelativeToolTip": "logcat\\LogFilter.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T17:05:28.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataTime.cpp",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\DataTime.cpp",
+              "RelativeDocumentMoniker": "logcat\\DataTime.cpp",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\DataTime.cpp",
+              "RelativeToolTip": "logcat\\DataTime.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T16:52:06.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\main.cpp",
+              "RelativeDocumentMoniker": "logcat\\main.cpp",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\main.cpp",
+              "RelativeToolTip": "logcat\\main.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAhwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T10:51:24.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogData.h",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogData.h",
+              "RelativeDocumentMoniker": "logcat\\LogData.h",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\LogData.h",
+              "RelativeToolTip": "logcat\\LogData.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-15T17:13:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateTime.h",
+              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\DateTime.h",
+              "RelativeDocumentMoniker": "logcat\\DateTime.h",
+              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\DateTime.h",
+              "RelativeToolTip": "logcat\\DateTime.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-15T16:53:11.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "logcat.txt",
               "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\logcat.txt",
               "RelativeDocumentMoniker": "logcat\\logcat.txt",
@@ -30,19 +179,7 @@
               "RelativeToolTip": "logcat\\logcat.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-13T17:55:18.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\main.cpp",
-              "RelativeDocumentMoniker": "logcat\\main.cpp",
-              "ToolTip": "E:\\cpp\\vc\\Logcat\\logcat\\logcat\\main.cpp",
-              "RelativeToolTip": "logcat\\main.cpp",
-              "ViewState": "AQIAAMwAAAAAAAAAAAAAAJsAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T10:51:24.676Z",
+              "WhenOpened": "2024-03-13T17:55:18.602Z",
               "EditorCaption": ""
             }
           ]

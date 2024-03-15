@@ -127,10 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataTime.cpp" />
+    <ClCompile Include="LogData.cpp" />
+    <ClCompile Include="LogFilter.cpp" />
+    <ClCompile Include="LogParser.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="logcat.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DateTime.h" />
+    <ClInclude Include="LogData.h" />
+    <ClInclude Include="LogFilter.h" />
+    <ClInclude Include="LogParser.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
