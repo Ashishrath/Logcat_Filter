@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <string>
+#include <algorithm>
 #include <map>
 #include "LogData.h"
 
@@ -23,4 +24,4 @@ public:
     bool filterByLogLevel(const LogData& entry, int level) const;
 };
 
-#endif#pragma once
+#endif
